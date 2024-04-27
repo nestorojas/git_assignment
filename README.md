@@ -22,3 +22,11 @@ d. **Give me a step-by-step guide on how to add someone to your repository.**
 4. Click on the green 'Invite a collaborator' button.
 5. Enter the username, email, or full name of the person you want to add.
 6. Click on the 'Add [username]' button.
+
+e. **What is the difference between `git` and `GitHub`?**
+
+Git is a distributed version control system that allows users to manage and track changes to their codebase locally on their computer. GitHub, on the other hand, is a web-based platform that provides hosting for Git repositories, along with collaboration features such as issue tracking, pull requests, and project management tools.
+
+f. **What does `git diff` do?**
+
+The `git diff` command shows the differences between changes in the working directory, the staging area (index), and the commit history. It compares the current state of files in the working directory with the staged changes or with a specific commit.
